@@ -1,0 +1,15 @@
+D:\el programo\Óra1\Óra1\bin\Debug\net7.0\Óra1.exe
+D:\el programo\Óra1\Óra1\bin\Debug\net7.0\Óra1.deps.json
+D:\el programo\Óra1\Óra1\bin\Debug\net7.0\Óra1.runtimeconfig.json
+D:\el programo\Óra1\Óra1\bin\Debug\net7.0\Óra1.dll
+D:\el programo\Óra1\Óra1\bin\Debug\net7.0\Óra1.pdb
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.csproj.AssemblyReference.cache
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.GeneratedMSBuildEditorConfig.editorconfig
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.AssemblyInfoInputs.cache
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.AssemblyInfo.cs
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.csproj.CoreCompileInputs.cache
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.dll
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\refint\Óra1.dll
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.pdb
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\Óra1.genruntimeconfig.cache
+D:\el programo\Óra1\Óra1\obj\Debug\net7.0\ref\Óra1.dll
